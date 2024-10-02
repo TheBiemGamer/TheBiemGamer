@@ -1,4 +1,4 @@
-<img align="right" height="200" src="https://raw.githubusercontent.com/TheBiemGamer/TheBiemGamer/refs/heads/main/assets/logo.png"  />
+![Logo](assets/logo.png)
 
 ###
 
