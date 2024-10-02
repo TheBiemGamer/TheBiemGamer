@@ -39,4 +39,6 @@
 
 ###
 
-- [TheHangmanWordlist](https://thebiemgamer.github.io/TheHangmanWordlist/)
+- [TheHangmanWordlist](https://thebiemgamer.github.io/TheHangmanWordlist/) (A small python library which returns hangman words.)
+
+###
