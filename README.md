@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019.<br>📚 I'm currently learning Python.<br>🎯 Goals: finishing my studies.<br>🎲 Fun fact: it's nearly impossible to open an airplane door when at cruising altitude, because of the difference in air pressure.</p>
+<p align="left">✨ Creating bugs since 2019.<br>📚 I'm currently learning Python.<br>🎯 Goals: finishing my studies.<br>🎲 Fun fact: <a href="https://www.wired.com/story/physics-explains-why-you-cant-open-a-plane-door-mid-flight/">it's nearly impossible to open an airplane door when at cruising altitude, because of the difference in air pressure</a>.</p>
 
 ###
 
