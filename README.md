@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Noah and I'm a Software Development Student, from the Netherlands.</p>
+<p align="left">My name is Noah and I'm a Software Development Student at [University of Applied Sciences Utrecht](https://www.internationalhu.com/), from the Netherlands.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019.<br>📚 I'm currently learning Python.<br>🎯 Goals: finish my studies.<br>🎲 Fun fact: it's nearly impossible to open an airplane door when at cruising altitude, because of the difference in air pressure.</p>
+<p align="left">✨ Creating bugs since 2019.<br>📚 I'm currently learning Python.<br>🎯 Goals: finishing my studies.<br>🎲 Fun fact: it's nearly impossible to open an airplane door when at cruising altitude, because of the difference in air pressure.</p>
 
 ###
 
