@@ -39,4 +39,4 @@
 
 ###
 
-- [TheHangmanWordlist](https://github.com/TheBiemGamer/TheHangmanWordlist)
+- [TheHangmanWordlist](https://thebiemgamer.github.io/TheHangmanWordlist/)
