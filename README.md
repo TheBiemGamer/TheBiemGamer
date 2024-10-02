@@ -5,7 +5,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-<p align="left">My name is Noah and I'm a Software Development Student at <a link="https://www.internationalhu.com">University of Applied Sciences Utrecht</a>, from the Netherlands.</p> 
+<p align="left">My name is Noah and I'm a Software Development Student at <a href="https://www.internationalhu.com">University of Applied Sciences Utrecht</a>, from the Netherlands.</p> 
 
 ###
 
