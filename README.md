@@ -18,4 +18,4 @@ My name is Noah and I'm a ICT Student at [University of Applied Sciences Utrecht
 - [TheHangmanWordlist](https://thebiemgamer.github.io/TheHangmanWordlist/) (A small python library which returns hangman words.)
 
 # ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
