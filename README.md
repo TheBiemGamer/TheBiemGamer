@@ -20,7 +20,7 @@
     <li>Creating bugs since 2019.</li>
     <li>I'm currently learning Python.</li>
     <li>Goals: finishing my studies.</li>
-    <li>un fact: <a href="https://www.wired.com/story/physics-explains-why-you-cant-open-a-plane-door-mid-flight/">it's nearly impossible to open an airplane door when at cruising altitude, because of the difference in air pressure</a>.</li>
+    <li>Fun fact: <a href="https://www.wired.com/story/physics-explains-why-you-cant-open-a-plane-door-mid-flight/">it's nearly impossible to open an airplane door when at cruising altitude, because of the difference in air pressure</a>.</li>
 </ul>
 
 <br>
