@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
     <img src="./assets/logo.png"/>
-</p>
+</div>
 
 <h1 align="center">
     Hey 👋 What's up?
@@ -29,12 +29,12 @@
     💻 Tech Stack
 </h1>
 
-<p align="center">
+<div align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+</div>
 
 <br>
 
@@ -42,7 +42,7 @@
     📦 Packages
 </h1>
 
-<p align="center">
+<div align="center">
     <table>
         <thead>
             <tr>
@@ -68,7 +68,7 @@
             </tr>
         </tbody>
     </table>
-</p>
+</div>
 
 <br>
 
@@ -76,6 +76,6 @@
     ✍️ Random Dev Quote
 </h1>
 
-<p align="center">
+<div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord"/>
-</p>
+</div>
