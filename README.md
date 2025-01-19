@@ -61,7 +61,7 @@
             </tr>
             <tr>
             <td><a href="https://thebiemgamer.github.io/Json-File-Helper/">JSON File Helper</a></td>
-            <td>A class for easier JSON File usage in Python</td>
+            <td>A class for easier JSON File usage in Python.</td>
             <td><a href="https://pypi.org/project/json_file_helper/">
                 <img src="https://img.shields.io/pypi/v/json_file_helper?style=flat&logo=python" alt="PyPI">
             </a></td>
