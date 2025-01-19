@@ -23,6 +23,8 @@
     <li>un fact: <a href="https://www.wired.com/story/physics-explains-why-you-cant-open-a-plane-door-mid-flight/">it's nearly impossible to open an airplane door when at cruising altitude, because of the difference in air pressure</a>.</li>
 </ul>
 
+<br>
+
 <h1 align="center">
     💻 Tech Stack
 </h1>
@@ -40,10 +42,33 @@
     📦 Packages
 </h1>
 
-| Name | Summary | Install |
-| ---- | ------- | ------- |
-| [The Hangman Wordlist](https://thebiemgamer.github.io/The-Hangman-Wordlist/) | A small Python module which returns hangman words. | [![PyPI](https://img.shields.io/pypi/v/the-hangman-wordlist?style=flat&logo=python)](https://pypi.org/project/the-hangman-wordlist/) |
-| [JSON File Helper](https://thebiemgamer.github.io/Json-File-Helper/) | A class for easier JSON File usage in Python | [![PyPI](https://img.shields.io/pypi/v/json_file_helper?style=flat&logo=python)](https://pypi.org/project/json_file_helper/) |
+<p align="center">
+    <table>
+        <thead>
+            <tr>
+            <th>Name</th>
+            <th>Summary</th>
+            <th>Install</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+            <td><a href="https://thebiemgamer.github.io/The-Hangman-Wordlist/">The Hangman Wordlist</a></td>
+            <td>A small Python module which returns hangman words.</td>
+            <td><a href="https://pypi.org/project/the-hangman-wordlist/">
+                <img src="https://img.shields.io/pypi/v/the-hangman-wordlist?style=flat&logo=python" alt="PyPI">
+            </a></td>
+            </tr>
+            <tr>
+            <td><a href="https://thebiemgamer.github.io/Json-File-Helper/">JSON File Helper</a></td>
+            <td>A class for easier JSON File usage in Python</td>
+            <td><a href="https://pypi.org/project/json_file_helper/">
+                <img src="https://img.shields.io/pypi/v/json_file_helper?style=flat&logo=python" alt="PyPI">
+            </a></td>
+            </tr>
+        </tbody>
+    </table>
+</p>
 
 <br>
 
