@@ -36,7 +36,7 @@
 <br>
 
 <h1 align="center">
-    📦 Packages
+    📦 Projects
 </h1>
 
 <div align="center">
