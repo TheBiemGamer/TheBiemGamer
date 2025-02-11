@@ -30,7 +30,9 @@
 </h1>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,css,git,linux,vscode,figma"/>
+    <a href="https://github.com/TheBiemGamer?tab=repositories">
+        <img src="https://skillicons.dev/icons?i=python,html,css,git,linux,vscode,figma"/>
+    </a>
 </div>
 
 <br>
