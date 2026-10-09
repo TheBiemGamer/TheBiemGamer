@@ -3,7 +3,7 @@
 
   <h1>Noah</h1>
 
-  <p>Software developer focused on game tooling, static recompilation and mod management.</p>
+  <p>Developer who enjoys building things, from web apps to low-level game tools.</p>
 
   <p>
     <img src="./assets/icons/graduation-cap.svg" width="16" height="16" align="absmiddle" alt=""/>&nbsp;ICT student at <a href="https://www.internationalhu.com">HU University of Applied Sciences Utrecht</a>
