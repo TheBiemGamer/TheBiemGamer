@@ -6,21 +6,21 @@
   <p>Software developer focused on game tooling, static recompilation and mod management.</p>
 
   <p>
-    <img src="./assets/icons/graduation-cap.svg" width="16" height="16" align="center" alt=""/>&nbsp;ICT student at <a href="https://www.internationalhu.com">HU University of Applied Sciences Utrecht</a>
+    <img src="./assets/icons/graduation-cap.svg" width="16" height="16" align="absmiddle" alt=""/>&nbsp;ICT student at <a href="https://www.internationalhu.com">HU University of Applied Sciences Utrecht</a>
     &nbsp;&nbsp;·&nbsp;&nbsp;
-    <img src="./assets/icons/map-pin.svg" width="16" height="16" align="center" alt=""/>&nbsp;The Netherlands
+    <img src="./assets/icons/map-pin.svg" width="16" height="16" align="absmiddle" alt=""/>&nbsp;The Netherlands
   </p>
 </div>
 
 <br>
 
-<h3><img src="./assets/icons/code.svg" width="20" height="20" align="center" alt=""/>&nbsp; Tech stack</h3>
+<h3><img src="./assets/icons/code.svg" width="20" height="20" align="absmiddle" alt=""/>&nbsp; Tech stack</h3>
 
 <img src="https://skillicons.dev/icons?i=cpp,c,rust,ts,react,vue,electron,py,cs,lua,linux,git,neovim&perline=13" alt="C++, C, Rust, TypeScript, React, Vue, Electron, Python, C#, Lua, Linux, Git, Neovim"/>
 
 <br>
 
-<h3><img src="./assets/icons/layers.svg" width="20" height="20" align="center" alt=""/>&nbsp; Featured projects</h3>
+<h3><img src="./assets/icons/layers.svg" width="20" height="20" align="absmiddle" alt=""/>&nbsp; Featured projects</h3>
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -31,7 +31,7 @@
 
 <br>
 
-<h3><img src="./assets/icons/archive.svg" width="20" height="20" align="center" alt=""/>&nbsp; Earlier work</h3>
+<h3><img src="./assets/icons/archive.svg" width="20" height="20" align="absmiddle" alt=""/>&nbsp; Earlier work</h3>
 
 | Project | Description | Links |
 | :--- | :--- | :--- |
@@ -41,4 +41,4 @@
 
 <br>
 
-<sub><img src="./assets/icons/lightbulb.svg" width="14" height="14" align="center" alt=""/>&nbsp; Fun fact: it is <a href="https://www.wired.com/story/physics-explains-why-you-cant-open-a-plane-door-mid-flight/">nearly impossible to open an airplane door at cruising altitude</a>, because of the difference in air pressure.</sub>
+<sub><img src="./assets/icons/lightbulb.svg" width="14" height="14" align="absmiddle" alt=""/>&nbsp; Fun fact: it is <a href="https://www.wired.com/story/physics-explains-why-you-cant-open-a-plane-door-mid-flight/">nearly impossible to open an airplane door at cruising altitude</a>, because of the difference in air pressure.</sub>
