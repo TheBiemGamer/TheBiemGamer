@@ -24,10 +24,10 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**GiantsRecomp**](https://github.com/TheBiemGamer/GiantsRecomp) | Unofficial PC port of Skylanders Giants (Xbox 360), statically recompiled with ReXGlue. Supports virtual and real USB Portal of Power, ultrawide and more. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| [**skylanders-portal**](https://github.com/TheBiemGamer/skylanders-portal) | Skylanders Portal of Power emulation for ReXGlue Xbox 360 recompilations. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| [**Proteus**](https://github.com/TheBiemGamer/Proteus) | Universal mod manager for PC games. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) |
-| [**LaunchHDR**](https://github.com/TheBiemGamer/LaunchHDR) | Turns HDR on when a game launches and off when it closes. | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
+| [**GiantsRecomp**](https://github.com/TheBiemGamer/GiantsRecomp) | Unofficial PC port of Skylanders Giants (Xbox 360), statically recompiled with ReXGlue. Supports virtual and real USB Portal of Power, ultrawide and more. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
+| [**skylanders-portal**](https://github.com/TheBiemGamer/skylanders-portal) | Skylanders Portal of Power emulation for ReXGlue Xbox 360 recompilations. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
+| [**Proteus**](https://github.com/TheBiemGamer/Proteus) | Universal mod manager for PC games. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white) |
+| [**LaunchHDR**](https://github.com/TheBiemGamer/LaunchHDR) | Turns HDR on when a game launches and off when it closes. | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) |
 
 <br>
 
@@ -35,9 +35,9 @@
 
 | Project | Description | Links |
 | :--- | :--- | :--- |
-| [The Hangman Wordlist](https://thebiemgamer.github.io/The-Hangman-Wordlist/) | Python module that returns hangman words. | [![PyPI](https://img.shields.io/pypi/v/the-hangman-wordlist?style=flat-square&logo=pypi&logoColor=white&label=PyPI)](https://pypi.org/project/the-hangman-wordlist/) |
-| [JSON File Helper](https://thebiemgamer.github.io/Json-File-Helper/) | Helper class for reading and writing JSON files in Python. | [![PyPI](https://img.shields.io/pypi/v/json_file_helper?style=flat-square&logo=pypi&logoColor=white&label=PyPI)](https://pypi.org/project/json_file_helper/) |
-| [WhoIs API](https://github.com/TheBiemGamer/WhoIsApi) | WhoIs lookup API with a web frontend. | [![Deploy](https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FTheBiemGamer%2FWhoIsApi) |
+| [The Hangman Wordlist](https://thebiemgamer.github.io/The-Hangman-Wordlist/) | Python module that returns hangman words. | [![PyPI](https://img.shields.io/pypi/v/the-hangman-wordlist?style=flat&logo=pypi&logoColor=white&label=PyPI)](https://pypi.org/project/the-hangman-wordlist/) |
+| [JSON File Helper](https://thebiemgamer.github.io/Json-File-Helper/) | Helper class for reading and writing JSON files in Python. | [![PyPI](https://img.shields.io/pypi/v/json_file_helper?style=flat&logo=pypi&logoColor=white&label=PyPI)](https://pypi.org/project/json_file_helper/) |
+| [WhoIs API](https://github.com/TheBiemGamer/WhoIsApi) | WhoIs lookup API with a web frontend. | [![Deploy](https://img.shields.io/badge/Deploy-Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FTheBiemGamer%2FWhoIsApi) |
 
 <br>
 
